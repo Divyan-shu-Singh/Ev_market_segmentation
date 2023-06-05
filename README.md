@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/Ev_market_segmentation/blob/master/EV_cars.ipynb)
+
 ## Electric Vehicle Market Segmentation in India
 This project aims to analyze the market segmentation of electric vehicles (EVs) in India. The purpose is to understand the different segments within the Indian EV market and develop a viable market entry strategy for an Electric Vehicle Startup or an Online Vehicle Booking Product Startup.
 
